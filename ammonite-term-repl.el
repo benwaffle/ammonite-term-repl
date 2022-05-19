@@ -7,7 +7,7 @@
 ;; URL: https://github.com/zwild/ammonite-term-repl
 ;; Package-Requires: ((emacs "24.3") (s "1.12.0") (scala-mode "0.23"))
 ;; Version: 0.2
-;; Keywords: processes, ammnite, term, scala
+;; Keywords: processes, ammonite, term, scala
 
 ;;; License:
 
